@@ -62,8 +62,8 @@ Thumbs.db
 # augment code
 .augment
 
-# cursor
-.cursor
+# cursor 本地运行状态；团队规范在 .cursor 下，需要提交
+.cursor/hooks/state/
 
 # kiro
 .kiro
